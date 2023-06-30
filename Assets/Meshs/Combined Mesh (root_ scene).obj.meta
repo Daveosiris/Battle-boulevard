@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 29fd0d7c34374ef2b5894b4530eebfbd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Combined_Mesh_(root:_scene)
+    100002: //RootNode
+    100004: Combined_Mesh_(root:_scene)_1
+    100006: Combined_Mesh_(root:_scene)_10
+    100008: Combined_Mesh_(root:_scene)_11
+    100010: Combined_Mesh_(root:_scene)_12
+    100012: Combined_Mesh_(root:_scene)_13
+    100014: Combined_Mesh_(root:_scene)_14
+    100016: Combined_Mesh_(root:_scene)_15
+    100018: Combined_Mesh_(root:_scene)_16
+    100020: Combined_Mesh_(root:_scene)_17
+    100022: Combined_Mesh_(root:_scene)_18
+    100024: Combined_Mesh_(root:_scene)_19
+    100026: Combined_Mesh_(root:_scene)_2
+    100028: Combined_Mesh_(root:_scene)_20
+    100030: Combined_Mesh_(root:_scene)_21
+    100032: Combined_Mesh_(root:_scene)_22
+    100034: Combined_Mesh_(root:_scene)_23
+    100036: Combined_Mesh_(root:_scene)_24
+    100038: Combined_Mesh_(root:_scene)_25
+    100040: Combined_Mesh_(root:_scene)_26
+    100042: Combined_Mesh_(root:_scene)_3
+    100044: Combined_Mesh_(root:_scene)_4
+    100046: Combined_Mesh_(root:_scene)_5
+    100048: Combined_Mesh_(root:_scene)_6
+    100050: Combined_Mesh_(root:_scene)_7
+    100052: Combined_Mesh_(root:_scene)_8
+    100054: Combined_Mesh_(root:_scene)_9
+    400000: Combined_Mesh_(root:_scene)
+    400002: //RootNode
+    400004: Combined_Mesh_(root:_scene)_1
+    400006: Combined_Mesh_(root:_scene)_10
+    400008: Combined_Mesh_(root:_scene)_11
+    400010: Combined_Mesh_(root:_scene)_12
+    400012: Combined_Mesh_(root:_scene)_13
+    400014: Combined_Mesh_(root:_scene)_14
+    400016: Combined_Mesh_(root:_scene)_15
+    400018: Combined_Mesh_(root:_scene)_16
+    400020: Combined_Mesh_(root:_scene)_17
+    400022: Combined_Mesh_(root:_scene)_18
+    400024: Combined_Mesh_(root:_scene)_19
+    400026: Combined_Mesh_(root:_scene)_2
+    400028: Combined_Mesh_(root:_scene)_20
+    400030: Combined_Mesh_(root:_scene)_21
+    400032: Combined_Mesh_(root:_scene)_22
+    400034: Combined_Mesh_(root:_scene)_23
+    400036: Combined_Mesh_(root:_scene)_24
+    400038: Combined_Mesh_(root:_scene)_25
+    400040: Combined_Mesh_(root:_scene)_26
+    400042: Combined_Mesh_(root:_scene)_3
+    400044: Combined_Mesh_(root:_scene)_4
+    400046: Combined_Mesh_(root:_scene)_5
+    400048: Combined_Mesh_(root:_scene)_6
+    400050: Combined_Mesh_(root:_scene)_7
+    400052: Combined_Mesh_(root:_scene)_8
+    400054: Combined_Mesh_(root:_scene)_9
+    2300000: Combined_Mesh_(root:_scene)
+    2300002: Combined_Mesh_(root:_scene)_1
+    2300004: Combined_Mesh_(root:_scene)_10
+    2300006: Combined_Mesh_(root:_scene)_11
+    2300008: Combined_Mesh_(root:_scene)_12
+    2300010: Combined_Mesh_(root:_scene)_13
+    2300012: Combined_Mesh_(root:_scene)_14
+    2300014: Combined_Mesh_(root:_scene)_15
+    2300016: Combined_Mesh_(root:_scene)_16
+    2300018: Combined_Mesh_(root:_scene)_17
+    2300020: Combined_Mesh_(root:_scene)_18
+    2300022: Combined_Mesh_(root:_scene)_19
+    2300024: Combined_Mesh_(root:_scene)_2
+    2300026: Combined_Mesh_(root:_scene)_20
+    2300028: Combined_Mesh_(root:_scene)_21
+    2300030: Combined_Mesh_(root:_scene)_22
+    2300032: Combined_Mesh_(root:_scene)_23
+    2300034: Combined_Mesh_(root:_scene)_24
+    2300036: Combined_Mesh_(root:_scene)_25
+    2300038: Combined_Mesh_(root:_scene)_26
+    2300040: Combined_Mesh_(root:_scene)_3
+    2300042: Combined_Mesh_(root:_scene)_4
+    2300044: Combined_Mesh_(root:_scene)_5
+    2300046: Combined_Mesh_(root:_scene)_6
+    2300048: Combined_Mesh_(root:_scene)_7
+    2300050: Combined_Mesh_(root:_scene)_8
+    2300052: Combined_Mesh_(root:_scene)_9
+    3300000: Combined_Mesh_(root:_scene)
+    3300002: Combined_Mesh_(root:_scene)_1
+    3300004: Combined_Mesh_(root:_scene)_10
+    3300006: Combined_Mesh_(root:_scene)_11
+    3300008: Combined_Mesh_(root:_scene)_12
+    3300010: Combined_Mesh_(root:_scene)_13
+    3300012: Combined_Mesh_(root:_scene)_14
+    3300014: Combined_Mesh_(root:_scene)_15
+    3300016: Combined_Mesh_(root:_scene)_16
+    3300018: Combined_Mesh_(root:_scene)_17
+    3300020: Combined_Mesh_(root:_scene)_18
+    3300022: Combined_Mesh_(root:_scene)_19
+    3300024: Combined_Mesh_(root:_scene)_2
+    3300026: Combined_Mesh_(root:_scene)_20
+    3300028: Combined_Mesh_(root:_scene)_21
+    3300030: Combined_Mesh_(root:_scene)_22
+    3300032: Combined_Mesh_(root:_scene)_23
+    3300034: Combined_Mesh_(root:_scene)_24
+    3300036: Combined_Mesh_(root:_scene)_25
+    3300038: Combined_Mesh_(root:_scene)_26
+    3300040: Combined_Mesh_(root:_scene)_3
+    3300042: Combined_Mesh_(root:_scene)_4
+    3300044: Combined_Mesh_(root:_scene)_5
+    3300046: Combined_Mesh_(root:_scene)_6
+    3300048: Combined_Mesh_(root:_scene)_7
+    3300050: Combined_Mesh_(root:_scene)_8
+    3300052: Combined_Mesh_(root:_scene)_9
+    4300000: Combined_Mesh_(root:_scene)
+    4300002: Combined_Mesh_(root:_scene)_1
+    4300004: Combined_Mesh_(root:_scene)_10
+    4300006: Combined_Mesh_(root:_scene)_11
+    4300008: Combined_Mesh_(root:_scene)_12
+    4300010: Combined_Mesh_(root:_scene)_13
+    4300012: Combined_Mesh_(root:_scene)_14
+    4300014: Combined_Mesh_(root:_scene)_15
+    4300016: Combined_Mesh_(root:_scene)_16
+    4300018: Combined_Mesh_(root:_scene)_17
+    4300020: Combined_Mesh_(root:_scene)_18
+    4300022: Combined_Mesh_(root:_scene)_19
+    4300024: Combined_Mesh_(root:_scene)_2
+    4300026: Combined_Mesh_(root:_scene)_20
+    4300028: Combined_Mesh_(root:_scene)_21
+    4300030: Combined_Mesh_(root:_scene)_22
+    4300032: Combined_Mesh_(root:_scene)_23
+    4300034: Combined_Mesh_(root:_scene)_24
+    4300036: Combined_Mesh_(root:_scene)_25
+    4300038: Combined_Mesh_(root:_scene)_26
+    4300040: Combined_Mesh_(root:_scene)_3
+    4300042: Combined_Mesh_(root:_scene)_4
+    4300044: Combined_Mesh_(root:_scene)_5
+    4300046: Combined_Mesh_(root:_scene)_6
+    4300048: Combined_Mesh_(root:_scene)_7
+    4300050: Combined_Mesh_(root:_scene)_8
+    4300052: Combined_Mesh_(root:_scene)_9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)Mat
+    second: {fileID: 2100000, guid: 0ffa3a4838a9fb649bc56b999fb4b46c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_10Mat
+    second: {fileID: 2100000, guid: 4d915c15e4ab66d4e9009798bc1a632d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_11Mat
+    second: {fileID: 2100000, guid: ed8a9aca552e84841873349a7a6dc831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_12Mat
+    second: {fileID: 2100000, guid: 0fad12cb73005fe4286cc7f194d35ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_13Mat
+    second: {fileID: 2100000, guid: 4e21dd4985577fb498ef24073d4fe19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_14Mat
+    second: {fileID: 2100000, guid: 576f9e0b274c2274db9638426e47422a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_15Mat
+    second: {fileID: 2100000, guid: a74e41dfac86ddb4babf51a8927a3d61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_16Mat
+    second: {fileID: 2100000, guid: 5c07c89805796494faac238617f783f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_17Mat
+    second: {fileID: 2100000, guid: 6205e3aed0babb640a6f92ce91970512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_18Mat
+    second: {fileID: 2100000, guid: feae7c7a9e14f8e4890c1a0ee733eaa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_19Mat
+    second: {fileID: 2100000, guid: 2302fda3a6ece7a448119e6801ea01c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_1Mat
+    second: {fileID: 2100000, guid: f6e44272cb9d6a04086a78acab526621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_20Mat
+    second: {fileID: 2100000, guid: 1fa48952d5ee12749a169173d724423f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_21Mat
+    second: {fileID: 2100000, guid: b335fcd0e46991846881f2d6f5540e0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_22Mat
+    second: {fileID: 2100000, guid: 8447d8502f64f294fada7aa0fad2696f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_23Mat
+    second: {fileID: 2100000, guid: c4e6225179f74aa4683dc9884f43c657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_24Mat
+    second: {fileID: 2100000, guid: 9b1ac55a2edd41848ab1e4f7c72d831e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_25Mat
+    second: {fileID: 2100000, guid: a5de4effebb335943873ace17531476a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_26Mat
+    second: {fileID: 2100000, guid: fab71157f3619a247a38f05b897c03ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_2Mat
+    second: {fileID: 2100000, guid: befce81955ba73c44a5ef2c347b23e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_3Mat
+    second: {fileID: 2100000, guid: 6d5714db67843c9409b913b2900c9a4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_4Mat
+    second: {fileID: 2100000, guid: e850c42d49705934ab8331d232159b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_5Mat
+    second: {fileID: 2100000, guid: fb32313060b69214aa737968d3547223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_6Mat
+    second: {fileID: 2100000, guid: 9209a16c0a3db4446851593291edfffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_7Mat
+    second: {fileID: 2100000, guid: f45ad5159ce466a48bdb7dbf207555f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_8Mat
+    second: {fileID: 2100000, guid: 76ee92b004747ce459d20f4ba1d5d403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combined_Mesh_(root__scene)_9Mat
+    second: {fileID: 2100000, guid: 83845e0f9c8c95947bde649dfb666421, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

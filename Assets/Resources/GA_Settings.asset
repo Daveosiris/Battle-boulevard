@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f434bf9656bd5412c634524c133e0c, type: 3}
+  m_Name: GA_Settings
+  m_EditorClassIdentifier: 
+  accounts:
+  - Name: Stickman
+    TrackingID: UA-118386173-1
+    IsOpen: 1
+  platfromBounds:
+  - platfrom: 0
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 1
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 2
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 3
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 4
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 5
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 7
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 8
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 9
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 10
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 11
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 12
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 13
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 15
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 16
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 17
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 18
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 19
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 20
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 21
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 22
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 23
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 24
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 25
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 26
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 27
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 28
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 30
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 31
+    profileIndex: 0
+    profileIndexTestMode: 0
+  - platfrom: 32
+    profileIndex: 0
+    profileIndexTestMode: 0
+  showAdditionalParams: 1
+  showAdvancedParams: 1
+  showCParams: 1
+  showAccounts: 1
+  showPlatfroms: 0
+  showTestingMode: 0
+  AppName: Stickman
+  AppVersion: 1.0
+  UseHTTPS: 0
+  StringEscaping: 1
+  EditorAnalytics: 1
+  IsDisabled: 0
+  IsTestingModeEnabled: 0
+  TestingModeAccIndex: 0
+  IsRequetsCachingEnabled: 0
+  IsQueueTimeEnabled: 0
+  AutoLevelTracking: 1
+  LevelPrefix: Level_
+  LevelPostfix: 
+  AutoAppQuitTracking: 1
+  AutoCampaignTracking: 0
+  AutoExceptionTracking: 1
+  AutoAppResumeTracking: 1
+  SubmitSystemInfoOnFirstLaunch: 1
+  UsePlayerSettingsForAppInfo: 1
+  EnableFirebase: 0
+  FirebaseAppId: 

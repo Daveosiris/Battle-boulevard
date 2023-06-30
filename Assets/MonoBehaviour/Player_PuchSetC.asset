@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 749c5131ccdc0a3503cefdcbba36e06a, type: 3}
+  m_Name: "Player_PuchSetC"
+  m_EditorClassIdentifier: 
+  _comboStyle: 1
+  _attacks:
+  - Attack:
+      _animation: {fileID: 7400000, guid: 4c51433df2bb4f5191a3e6500d219790, type: 2}
+      _animationSpeed: 1.5
+      _mirrorAnimation: 0
+    _attackType: 0
+    _attackDirection: 0
+    _hitPosition: 1.6
+    _poweredAttack: 0
+    _knockDown: 0
+    CollSize: {x: 1.5, y: 1.7}
+    _customReactions: []
+  - Attack:
+      _animation: {fileID: 7400000, guid: 50ab474411344b7d8bddc0379a764cbf, type: 2}
+      _animationSpeed: 1.5
+      _mirrorAnimation: 0
+    _attackType: 0
+    _attackDirection: 1
+    _hitPosition: 1.6
+    _poweredAttack: 0
+    _knockDown: 0
+    CollSize: {x: 1.5, y: 1.7}
+    _customReactions: []
+  - Attack:
+      _animation: {fileID: 7400000, guid: 6de22259220a4f66a41407a7f032ec78, type: 2}
+      _animationSpeed: 1.3
+      _mirrorAnimation: 0
+    _attackType: 0
+    _attackDirection: 0
+    _hitPosition: 1.6
+    _poweredAttack: 0
+    _knockDown: 1
+    CollSize: {x: 1.5, y: 1.7}
+    _customReactions: []

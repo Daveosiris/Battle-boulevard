@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ab2e0f9ccdc6ad64ebb22d1fb83e90, type: 3}
+  m_Name: "GroundGrabSet1"
+  m_EditorClassIdentifier: 
+  _grapPosition: 0.75
+  _releaseTime: 2
+  _grabbCombos:
+  - Attack: {fileID: 7400000, guid: 4754be850c6f4ae2be9d3283c92d7a20, type: 2}
+    AttackIdle: {fileID: 7400000, guid: bfcb3b1ef7144a449f8ac74e2b490c78, type: 2}
+    Reaction: {fileID: 7400000, guid: 23a10101271a47f797e4930c2d963f3f, type: 2}
+    ReactionIdle: {fileID: 7400000, guid: 0bf6979c5eca499e8fd4f1ab5ab353cf, type: 2}
+    _animSpeed: 2.2
+    _hitPosition: 0
+  - Attack: {fileID: 7400000, guid: 5d8608665fbf4ce69f9ad9e755c6422e, type: 2}
+    AttackIdle: {fileID: 7400000, guid: ea81ab0c97024e5da6fd024d30548791, type: 2}
+    Reaction: {fileID: 7400000, guid: 5ece32c0be0a40e1be4e0b7febb34e3a, type: 2}
+    ReactionIdle: {fileID: 7400000, guid: 6c2473d3a89449e6b9b5fb7ae4653d79, type: 2}
+    _animSpeed: 2.2
+    _hitPosition: 0
+  - Attack: {fileID: 7400000, guid: 6c130c12574348c381375093e5083fde, type: 2}
+    AttackIdle: {fileID: 7400000, guid: fed757227b9a4c59aded9f91f944c8c8, type: 2}
+    Reaction: {fileID: 7400000, guid: ae9c2e454df6448daa7de42dfab02f4c, type: 2}
+    ReactionIdle: {fileID: 7400000, guid: fcfcd272ce654297ac1015efa9671e9a, type: 2}
+    _animSpeed: 2.2
+    _hitPosition: 0
+  - Attack: {fileID: 7400000, guid: 7afab716b1fc45e0a07c178341808e52, type: 2}
+    AttackIdle: {fileID: 0}
+    Reaction: {fileID: 7400000, guid: 7a379d680092446c861eb36a83f3a883, type: 2}
+    ReactionIdle: {fileID: 0}
+    _animSpeed: 2.2
+    _hitPosition: 0
+  _escape:
+    Attack: {fileID: 7400000, guid: a09b33f4ed6b467cbf2057eb19cad2cd, type: 2}
+    AttackIdle: {fileID: 0}
+    Reaction: {fileID: 7400000, guid: 331c4a55668544509dbf34ca90d47340, type: 2}
+    ReactionIdle: {fileID: 0}
+    _animSpeed: 1.9
+    _hitPosition: 0
+  _comboInd: 4
